@@ -17,8 +17,8 @@ uv sync #install uv if you dont have it from here: https://docs.astral.sh/uv/get
 python main.py #python3 when mac or linux 
 ```
 NOW ASK QUESTIONS ABOUT YOUR PDF
-NO GUESSING
-NO HALLUCINATIONS
+* NO GUESSING
+* NO HALLUCINATIONS
 
 ## FEATURES
 
@@ -33,8 +33,8 @@ First it splits your  document into chunks and store it in chromadb , then it us
 
 ## REQUIREMENTS
 
-Python 3.11+
-Groq API key (free at https://console.groq.com)
+* Python 3.11+
+* Groq API key (free at https://console.groq.com)
 
 ## Built With
 - [LangChain](https://langchain.com)
