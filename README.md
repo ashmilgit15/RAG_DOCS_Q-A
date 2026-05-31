@@ -1,9 +1,9 @@
 # DOCS-Q&A
 ask questions about your pdf in english and get Answers powered by AI 
 
-## IMAGE
+## DEMO
 
-![Image](images/image.png)
+[![Demo](https://asciinema.org/a/oyTxudgQWvh1HFY5.svg)](https://asciinema.org/a/oyTxudgQWvh1HFY5)
 
 ## QUICKSTART
 paste your groq api key to .env.example (get one free from https://console.groq.com)
