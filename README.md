@@ -13,7 +13,7 @@ if you changed pdf or pdf name,update the name in line 17 in main.py (loader = P
 ```
 git clone https://github.com/ashmilgit15/RAG_DOCS_Q-A.git 
 cd RAG_DOCS_Q-A
-uv sync (install uv if you dont have it from here: https://docs.astral.sh/uv/getting-started/installation/)
+uv sync #install uv if you dont have it from here: https://docs.astral.sh/uv/getting-started/installation/
 python main.py #python3 when mac or linux 
 ```
 NOW ASK QUESTIONS ABOUT YOUR PDF
