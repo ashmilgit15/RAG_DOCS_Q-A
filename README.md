@@ -19,6 +19,7 @@ python main.py #python3 when mac or linux
 NOW ASK QUESTIONS ABOUT YOUR PDF
 * NO GUESSING
 * NO HALLUCINATIONS
+TO EXIT - type "quit"
 
 ## FEATURES
 

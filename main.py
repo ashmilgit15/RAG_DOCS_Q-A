@@ -14,7 +14,7 @@ load_dotenv()
 
 
 # load a pdf in my case its my calculus chapter pdf hehe
-loader = PyPDFLoader("kemh112.pdf")
+loader = PyPDFLoader("calculus.pdf")
 pages = loader.load()
 
 # split into chunks , also overlap so the AI have yk persisted memory
